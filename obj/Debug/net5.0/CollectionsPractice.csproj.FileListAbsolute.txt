@@ -1,0 +1,15 @@
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.deps.json
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.runtimeconfig.json
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.runtimeconfig.dev.json
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.dll
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/bin/Debug/net5.0/ref/CollectionsPractice.dll
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/bin/Debug/net5.0/CollectionsPractice.pdb
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.csproj.AssemblyReference.cache
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.AssemblyInfo.cs
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.dll
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/obj/Debug/net5.0/ref/CollectionsPractice.dll
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.pdb
+/Users/atlas/Coding Dojo /C#/CollectionsPractice/obj/Debug/net5.0/CollectionsPractice.genruntimeconfig.cache
